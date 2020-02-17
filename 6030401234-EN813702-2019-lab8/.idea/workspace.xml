@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f90c83-71e7-4deb-9497-d318b0394846" name="Default Changelist" comment="" />
+    <list default="true" id="91f90c83-71e7-4deb-9497-d318b0394846" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem4_WhatShouldDoToday.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/FitMoreFishKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/GetFortuneCookieKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/META-INF/Lesson1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson1/META-INF/Lesson1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/PracticeTimeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FitMoreFish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem3_FitMoreFish.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetFortuneCookie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1_GetFortuneCookie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeTime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2_GetFortune.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +26,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XhGI3UcErnUQCIl5toT6Ch5WK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581489815867" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -34,7 +52,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Kotlin.FitMoreFishKt">
+  <component name="RunManager" selected="Kotlin.Problem4_WhatShouldDoTodayKt">
     <configuration name="AMSKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Lesson1" />
       <option name="VM_PARAMETERS" />
@@ -48,53 +66,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitMoreFishKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem1_GetFortuneCookieKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Lesson1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FitMoreFishKt" />
+      <option name="MAIN_CLASS_NAME" value="Problem1_GetFortuneCookieKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFortuneCookieKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem2_GetFortuneKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Lesson1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GetFortuneCookieKt" />
+      <option name="MAIN_CLASS_NAME" value="Problem2_GetFortuneKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreetingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Lesson1" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GreetingKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeTimeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem3_FitMoreFishKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Lesson1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PracticeTimeKt" />
+      <option name="MAIN_CLASS_NAME" value="Problem3_FitMoreFishKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem4_WhatShouldDoTodayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Lesson1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Problem4_WhatShouldDoTodayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,18 +120,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.AMSKt" />
-      <item itemvalue="Kotlin.FitMoreFishKt" />
-      <item itemvalue="Kotlin.GetFortuneCookieKt" />
-      <item itemvalue="Kotlin.GreetingKt" />
-      <item itemvalue="Kotlin.PracticeTimeKt" />
+      <item itemvalue="Kotlin.Problem1_GetFortuneCookieKt" />
+      <item itemvalue="Kotlin.Problem2_GetFortuneKt" />
+      <item itemvalue="Kotlin.Problem3_FitMoreFishKt" />
+      <item itemvalue="Kotlin.Problem4_WhatShouldDoTodayKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FitMoreFishKt" />
-        <item itemvalue="Kotlin.PracticeTimeKt" />
+        <item itemvalue="Kotlin.Problem4_WhatShouldDoTodayKt" />
+        <item itemvalue="Kotlin.Problem3_FitMoreFishKt" />
+        <item itemvalue="Kotlin.Problem2_GetFortuneKt" />
+        <item itemvalue="Kotlin.Problem1_GetFortuneCookieKt" />
         <item itemvalue="Kotlin.AMSKt" />
-        <item itemvalue="Kotlin.GetFortuneCookieKt" />
-        <item itemvalue="Kotlin.GreetingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -151,26 +169,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581490984248" />
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1581536942349">
+    <state width="723" height="187" key="GridCell.Tab.0.bottom" timestamp="1581952648025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581536942349" />
-    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1581536942349">
+    <state width="723" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581952648025" />
+    <state width="723" height="187" key="GridCell.Tab.0.center" timestamp="1581952648025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581536942349" />
-    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1581536942349">
+    <state width="723" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581952648025" />
+    <state width="723" height="187" key="GridCell.Tab.0.left" timestamp="1581952648025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581536942349" />
-    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1581536942349">
+    <state width="723" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581952648025" />
+    <state width="723" height="187" key="GridCell.Tab.0.right" timestamp="1581952648025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581536942349" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1581945944091">
+    <state width="723" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581952648025" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1581949915849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581945944091" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581949915849" />
     <state x="809" y="190" key="run.anything.popup" timestamp="1581501437846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
